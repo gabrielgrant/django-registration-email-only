@@ -1,0 +1,4 @@
+django-registration-email-only was created by Gabriel Grant <g@briel.ca>
+
+It uses significant portions of django-registration by James Bennett
+<james@b-list.org>.
